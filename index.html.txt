@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>R Sumukh Aryan | Embedded Systems Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>R. Sumukh Aryan</h1>
+  <p class="tagline">Embedded Systems & IoT Engineer</p>
+</header>
+
+<section>
+  <h2>About Me</h2>
+  <p>
+    Electronics and Communication Engineering graduate with hands-on experience in embedded systems,
+    IoT, microcontrollers, PCB design, and real-time systems. Passionate about building intelligent,
+    sensor-driven solutions for real-world problems.
+  </p>
+</section>
+
+<section>
+  <h2>Skills</h2>
+  <ul class="skills">
+    <li>Embedded C</li>
+    <li>Python</li>
+    <li>Java</li>
+    <li>C++</li>
+    <li>Arduino</li>
+    <li>ESP Microcontrollers</li>
+    <li>PCB Design</li>
+    <li>MQTT</li>
+    <li>UART</li>
+    <li>AWS Cloud</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Projects</h2>
+
+  <div class="project">
+    <h3>Smart Pathway System for Emergency Vehicles</h3>
+    <p>
+      Designed an embedded traffic management system using Arduino and Embedded C
+      to prioritize emergency vehicles. Integrated image processing for vehicle detection,
+      IoT sensors for real-time traffic data, and developed a web dashboard using HTML and Python.
+    </p>
+  </div>
+
+  <div class="project">
+    <h3>Automated Smart Street Lighting System</h3>
+    <p>
+      Built an energy-efficient street lighting system using motion sensors and microcontrollers.
+      Optimized circuits and PCB layouts, implementing adaptive lighting control to reduce power consumption.
+    </p>
+  </div>
+
+  <div class="project">
+    <h3>IoT-Based Water Collection System with Digital Payment</h3>
+    <p>
+      Developed a smart water dispensing system with IoT monitoring and digital payment logic.
+      Implemented sensor-based control for safe and efficient water distribution.
+    </p>
+  </div>
+
+  <div class="project">
+    <h3>Soil Moisture Monitoring System Using IoT</h3>
+    <p>
+      Designed an IoT-based soil moisture monitoring system enabling real-time environmental data access
+      and improving sensor calibration and data acquisition skills.
+    </p>
+  </div>
+
+</section>
+
+<section>
+  <h2>Experience</h2>
+  <p><strong>Bharath Electronics Limited (BEL)</strong> — Intern (Oct 2024 – Feb 2025)</p>
+  <p>
+    Completed structured training in electronics and RFID systems and gained exposure to
+    solar panel production in an industrial environment.
+  </p>
+</section>
+
+<section>
+  <h2>Certifications & Activities</h2>
+  <ul>
+    <li>AWS Cloud Foundations — Amazon Web Services</li>
+    <li>Internet of Things — Tequed Labs</li>
+    <li>Python Programming — Tequed Labs</li>
+    <li>Secretary, IEEE Club</li>
+    <li>Member, Sports Council</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Contact</h2>
+  <p>Email: <a href="mailto:sumukharyan1434@gmail.com">sumukharyan1434@gmail.com</a></p>
+  <p>Phone: +91 97397 36338</p>
+  <p>GitHub: <a href="https://github.com/yourusername">github.com/yourusername</a></p>
+</section>
+
+<footer>
+  <p>© 2025 R. Sumukh Aryan</p>
+</footer>
+
+</body>
+</html>
